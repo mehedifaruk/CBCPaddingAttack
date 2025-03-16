@@ -54,9 +54,10 @@ python paddingattack.py http://localhost:5000
 
 This implementation is for educational purposes only. It demonstrates the insecurity of CBC mode when implemented with a padding oracle vulnerability. Do not use this against systems without explicit permission.
 
-## Author
+👨‍💻 Author:
+Md. Mehedi Faruk
 
-Original implementation by Mehedi
+📧 mehedifaruk@gmail.com
 
 ## License
 
