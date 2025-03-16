@@ -1,6 +1,6 @@
 # CBC Padding Oracle Attack Implementation
 
-This repository contains a Python implementation of a CBC (Cipher Block Chaining) Padding Oracle Attack. The attack demonstrates how padding oracle vulnerabilities can be exploited in CBC mode encryption.
+This repository contains a Python implementation of a CBC (Cipher Block Chaining) Padding Oracle Attack. The attack demonstrates how padding oracle vulnerabilities can be exploited in CBC mode encryption. This project was part of the Systems Security Course Assignment at Aarhus University.
 
 ## Description
 
